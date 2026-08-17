@@ -1,0 +1,47 @@
+<!doctype HTML>
+<html>
+<head>
+     
+     <meta charset="UTF 8.0">
+    <title> Practical 2:Images,Links & Navigation</title>
+</head>
+
+<body> 
+      <h2> My First Link </h2>
+      <a href="https://sitnagpur.edu.in" target ="_blank"
+>SIT NAGUR </a>
+
+
+<h3> My First Image </h3>
+
+<img src="C:\Users\SITNGP-01_03\Downloads\goat.jpg"
+width="777"
+heigth="777">
+     <nav> 
+        <a href="#sitnagpur">sitnagpur </a>
+ 
+        <a href="#about contact">contact</a>
+        </nav> 
+          
+       <section id="sitnagpur">
+       <p> 1 <br> 2<br> 3<br> 4<br> 5<br> 6<br> 7<br> 8<br>
+9<br> 10<br> </p> <p> </p> 
+
+
+
+
+
+this is kausubh chimote writer 
+       <section id="contact">
+
+       <p> sit nagpur<br>siu nagpur campur<br> bhandewadi road<br> 
+       nagpur-440008
+      </p><br>
+ </section>
+
+       
+
+THIS THE DA REAL GOAT 
+
+</body>
+</html>
